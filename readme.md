@@ -6,7 +6,7 @@ I am working on it to have some source of knowledge to share with everyone who w
 
 ## Topics
 
-- [Data Structures](/readme.md#data-structures)
+- [Data Structures](#data-structures)
 
 ### Data Structures
 
