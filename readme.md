@@ -2,6 +2,8 @@
 
 This is my basic Computer Engineering Study Guide and where I did some experiments with algorithms
 
+I am working on it to have some source of knowledge to share with everyone who wants to learn more about computer engineering
+
 ## Topics
 
 ### Data Structure
