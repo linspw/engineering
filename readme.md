@@ -9,10 +9,11 @@ I am working on it to have some source of knowledge to share with everyone who w
 ### Data Structure
 
 1. [X] **Introduction to Data Structures:**
-   - [Definition and importance of data structures.](/studies/data-structures/1.introduction-to-data-structures/index.md)
-   - Basic operations on data structures (insertion, deletion, searching).
+   - [x] [Definition and importance of data structures.](/studies/data-structures/1.introduction-to-data-structures/index.md)
+   - [x] [Basic operations on data structures (insertion, deletion, searching).](/studies/data-structures/1.introduction-to-data-structures/index.md)
 
 2. [ ] **Arrays:**
+   - [x] [Introduction.](/studies/data-structures/1.introduction-to-data-structures/index.md)
    - One-dimensional and multi-dimensional arrays.
    - Accessing, inserting, and deleting elements in arrays.
    - Common operations and time complexity.

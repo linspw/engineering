@@ -10,14 +10,14 @@ Data Structures are the fundamental formats to organize, manage and store data i
 
 There are several fundamental operations that can be applied to many data structures, including insertion, deletion, and searching.
 
-## Insertion
+### Insertion
 
 The insertion allows the data structure to be populated with some existing data. Which can be used to be part of infinite operations.
 
-## Deletion
+### Deletion
 
 The deletions allows to remove elements or values from a data structure. This operation is crucial for maintaining the desired behavior and integrity of the structure.
 
-## Searching
+### Searching
 
 The search is the process of locating a specific elements or values within a data structure. to find values in the data structure. It enables various operations that rely on accessing and retrieving data efficiently.
