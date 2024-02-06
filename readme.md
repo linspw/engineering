@@ -6,8 +6,8 @@ This is my basic Computer Engineering Study Guide and where I did some experimen
 
 ### Data Structure
 
-1. [ ] **Introduction to Data Structures:**
-   - Definition and importance of data structures.
+1. [X] **Introduction to Data Structures:**
+   - [Definition and importance of data structures.](/studies/data-structures/1.introduction-to-data-structures/index.md)
    - Basic operations on data structures (insertion, deletion, searching).
 
 2. [ ] **Arrays:**
