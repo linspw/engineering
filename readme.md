@@ -6,7 +6,9 @@ I am working on it to have some source of knowledge to share with everyone who w
 
 ## Topics
 
-### Data Structure
+- [Data Structures](/readme.md#data-structures)
+
+### Data Structures
 
 1. [X] **Introduction to Data Structures:**
    - [x] [Definition and importance of data structures.](/studies/data-structures/1.introduction-to-data-structures/index.md)
