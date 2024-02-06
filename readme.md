@@ -12,11 +12,11 @@ I am working on it to have some source of knowledge to share with everyone who w
    - [x] [Definition and importance of data structures.](/studies/data-structures/1.introduction-to-data-structures/index.md)
    - [x] [Basic operations on data structures (insertion, deletion, searching).](/studies/data-structures/1.introduction-to-data-structures/index.md)
 
-2. [-] **Arrays:**
+2. [ ] **Arrays:**
    - [x] [Introduction.](/studies/data-structures/2.arrays/index.md#1-introduction)
    - [x] [One-dimensional and multi-dimensional arrays.](/studies/data-structures/2.arrays/index.md#2-one-dimensional-and-multi-dimensional-arrays)
-   - Accessing, inserting, and deleting elements in arrays.
-   - Common operations and time complexity.
+   - [ ] Accessing, inserting, and deleting elements in arrays.
+   - [ ] Common operations and time complexity.
 
 3. [ ] **Linked Lists:**
    - Singly linked lists, doubly linked lists, and circular linked lists.
