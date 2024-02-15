@@ -63,3 +63,63 @@ matrix = [
 
 ## 3. Accessing, inserting, and deleting elements in arrays
 
+### Accessing
+
+Accessing an element in an array requires using its index, which indicates the position of the element within the array. It's important to note that array indices typically start from zero.
+
+#### Example in Python:
+
+```python
+
+vector = [1, 2, 3]
+# Indices respectively are 0, 1, 2, corresponding to the order of the elements
+
+# To Access:
+vector[2]
+# The value is 3
+
+vector[0]
+# The value is 1
+```
+
+### Inserting
+
+Inserting a new element into an array involves either using a language-specific function or directly replacing a specified element by its index.
+
+
+#### Example in Pyhton:
+
+```python
+vector = [1, 2, 3]
+
+vector.append(10)
+# Result: [1, 2, 3, 10]
+
+vector[3] = 20
+# Result: [1, 2, 3, 20]
+```
+
+### Deleting
+
+Deleting an element from an array requires using specific methods provided by the language.
+
+
+#### Example in Python:
+
+```python
+vector = [1, 2, 3]
+
+vector.pop()
+# Removes the last element; alternatively, specify the index of the element to remove
+# Result: [1, 2]
+
+# --------------
+
+vector = [1, 2, 3]
+
+vector[1:]
+# Result: [2, 3]
+
+vector[:2]
+# Result: [1, 2]
+```
